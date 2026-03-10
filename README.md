@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola 👋, soy Alejandro Velaz
 
-<!--
-**velazalejandro/velazalejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Soy DevOps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Stack Tecnológico
+- Docker 🐳
+- Kubernetes ☸️
+- Jenkins
+- SonarQube
+- Nexus
+
+---
+
+## 💻 Proyectos destacados
+- [integration-jenkins-kubernetes](https://github.com/velazalejandro/integration-jenkins-kubernetes) — Despliegue de Jenkins en Kubernetes
+- [integration-sonarqube-kubernetes](https://github.com/velazalejandro/integration-sonarqube-kubernetes) — Despliegue de SonarQube en Kubernetes
+- [Integration-nexus-kubernetes](https://github.com/velazalejandro/Integration-nexus-kubernetes) — Despliegue de Nexus en Kubernetes
+
+---
+
+## 📈 Contacto
+- LinkedIn: [linkedin/in/alejandrovelazrodriguez](https://es.linkedin.com/in/alejandrovelazrodriguez)
+- Email: alejandrovelazsmr1cr013@gmail.com
