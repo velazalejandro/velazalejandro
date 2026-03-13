@@ -1,6 +1,6 @@
 # Hola 👋, soy Alejandro Velaz
 
-## 🚀 Soy DevOps
+## 🚀 Soy Técnico Superior de ASIR con experiencia y conocimientos en DevOps y Soporte IT
 
 
 ---
