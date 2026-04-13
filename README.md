@@ -23,6 +23,6 @@
 
 ---
 
-## 📈 Contacto
+## 📫 Contacto
 - LinkedIn: [linkedin/in/alejandrovelazrodriguez](https://es.linkedin.com/in/alejandrovelazrodriguez)
 - Email: alejandrovelazsmr1cr013@gmail.com
