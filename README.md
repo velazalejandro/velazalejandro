@@ -1,18 +1,18 @@
 # Hola 👋, soy Alejandro Velaz
 
 ## 🧠 Sobre mí
-- 🚀 Soy Técnico Superior de ASIR con experiencia y conocimientos en DevOps y Soporte IT en gestión y resolución de incidencias a usuarios mediante herramientas de ticketing.
+- 🚀 Soy Técnico Superior de ASIR con experiencia y conocimientos en DevOps y Soporte IT en gestión, operaciones CI/CD y resolución de incidencias a usuarios mediante herramientas de ticketing.
 - 📚 Aprendiendo herramientas y buenas prácticas DevOps.
-- 🎯 Buscando oportunidades para seguir creciendo como DevOps.
+- 🎯 Buscando oportunidades para seguir creciendo como DevOps CI/CD.
 
 
 ---
 
 ## 🛠 Stack Tecnológico
-- Docker 🐳
-- Kubernetes ☸️
 - Jenkins 🔧
 - GitHub
+- Docker 🐳
+- Kubernetes ☸️
 - SonarQube
 - Nexus 📦
 
