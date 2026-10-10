@@ -31,3 +31,4 @@
 ## 📫 Contacto
 - LinkedIn: [linkedin/in/alejandrovelazrodriguez](https://es.linkedin.com/in/alejandrovelazrodriguez)
 - Email: alejandrovelazsmr1cr013@gmail.com
+- CV: file:///C:/Users/Alejandro/Desktop/Curriculums%20nuevos/CV_AlejandroVelazRodr%C3%ADguez.pdf
