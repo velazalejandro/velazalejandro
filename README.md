@@ -14,7 +14,7 @@
 - Contenedores y orquestación: Docker 🐳 y Kubernetes ☸️
 - Repositorios y gestión de artefactos: Nexus 📦, GitHub, GitLab, Bitbucket
 - Calidad y seguridad del código: SonarQube
-- Monitorización: Prometheus y Grafana
+- Monitorización: Prometheus 📊 y Grafana 📊
 - Gestión de incidencias y proyectos: Jira y herramientas de ticketing
 
 ---
