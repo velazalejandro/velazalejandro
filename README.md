@@ -20,6 +20,8 @@
 ---
 
 ## 💻 Repositorios destacados
+- [ubuntu-prometheus-grafana-monitoring](https://github.com/velazalejandro/ubuntu-prometheus-grafana-monitoring) - Proyecto práctico de monitorización de sistemas en una máquina virtual con Ubuntu, con el objetivo de poner en práctica conocimientos de Linux, observabilidad y monitorización de infraestructura. Permite observar el estado de los servicios, detectar problemas y diagnosticar incidencias.
+
 - [devops-technical-test](https://github.com/velazalejandro/devops-technical-test) - Prueba técnica realizada a través de una máquina virtual de Linux y centrada en DevOps, administración Linux y despliegue de una aplicación web con Python, donde trabajé sobre un entorno Ubuntu realizando tareas de configuración, organización de directorios, gestión de usuarios, configuración de pipeline con Jenkins, contenerización de la aplicación con Docker y despliegue de servicios.
 
 - [video-platform-deployment-lab](https://github.com/velazalejandro/video-platform-deployment-lab) - Proyecto práctico de administración de sistemas basado en el despliegue de una plataforma multimedia open source sobre Debian Linux.
